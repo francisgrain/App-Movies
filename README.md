@@ -24,4 +24,8 @@
 <h3>Repository used: Gradle</h3>
 
 <h3>Screenshots</h3>
+<img src="https://github.com/user-attachments/assets/9c55b66a-0ec1-4130-b3d1-dbd1e24163f3">
 <img src="https://github.com/user-attachments/assets/3560f2fe-abe8-44ad-8b43-165cb4aaf4cb">
+<img src="https://github.com/user-attachments/assets/85ff3fa5-5802-4574-bd69-bb7b75c510ca">
+<img src="https://github.com/user-attachments/assets/c7745393-c4d3-472d-ad9d-7cc2afd802a6">
+<img src="https://github.com/user-attachments/assets/4ab99e45-540f-4f28-a648-a67c639face0">
