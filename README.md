@@ -24,4 +24,4 @@
 <h3>Repository used: Gradle</h3>
 
 <h3>Screenshots</h3>
-![appmovies1](https://github.com/user-attachments/assets/3560f2fe-abe8-44ad-8b43-165cb4aaf4cb)
+<img src="https://github.com/user-attachments/assets/3560f2fe-abe8-44ad-8b43-165cb4aaf4cb">
