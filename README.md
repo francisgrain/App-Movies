@@ -10,7 +10,7 @@
                       Thymeleaf, Postman, and MySQL.</h2>
 <h3>Dependencies used</h3>:
 <li>
-<ul>implementation 'com.fasterxml.jackson.core:jackson-databind:2.17.1'
+implementation 'com.fasterxml.jackson.core:jackson-databind:2.17.1'
 	implementation 'org.springframework.boot:spring-boot-starter-mail'
 	implementation 'org.springframework.boot:spring-boot-starter-data-jdbc'
 	implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
