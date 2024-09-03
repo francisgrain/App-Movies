@@ -8,8 +8,9 @@
                       attacks, ensuring that all transactions and data are
                       safeguarded. Developed using Java, SpringBoot, Bootstrap,
                       Thymeleaf, Postman, and MySQL.</h2>
-<h3>Dependencies used:
-implementation 'com.fasterxml.jackson.core:jackson-databind:2.17.1'
+<h3>Dependencies used</h3>:
+<li>
+<ul>implementation 'com.fasterxml.jackson.core:jackson-databind:2.17.1'
 	implementation 'org.springframework.boot:spring-boot-starter-mail'
 	implementation 'org.springframework.boot:spring-boot-starter-data-jdbc'
 	implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
@@ -19,4 +20,5 @@ implementation 'com.fasterxml.jackson.core:jackson-databind:2.17.1'
 	developmentOnly 'org.springframework.boot:spring-boot-devtools'
 	runtimeOnly 'com.mysql:mysql-connector-j'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
-	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'</h3>
+	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+</li>
