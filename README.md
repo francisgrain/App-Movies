@@ -8,17 +8,16 @@
                       attacks, ensuring that all transactions and data are
                       safeguarded. Developed using Java, SpringBoot, Bootstrap,
                       Thymeleaf, Postman, and MySQL.</h2>
-<h3>Dependencies used</h3>:
-<li>
-implementation 'com.fasterxml.jackson.core:jackson-databind:2.17.1'
-	implementation 'org.springframework.boot:spring-boot-starter-mail'
-	implementation 'org.springframework.boot:spring-boot-starter-data-jdbc'
-	implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
-	implementation 'org.springframework.boot:spring-boot-starter-web'
-	implementation 'org.springframework.boot:spring-boot-starter-security'
-	implementation 'org.thymeleaf.extras:thymeleaf-extras-springsecurity5'
-	developmentOnly 'org.springframework.boot:spring-boot-devtools'
-	runtimeOnly 'com.mysql:mysql-connector-j'
-	testImplementation 'org.springframework.boot:spring-boot-starter-test'
-	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
-</li>
+<h3>Dependencies used:</h3>
+<li> implementation 'com.fasterxml.jackson.core:jackson-databind:2.17.1'</li>
+<li> implementation 'org.springframework.boot:spring-boot-starter-mail'</li>
+<li> implementation 'org.springframework.boot:spring-boot-starter-data-jdbc'</li>	
+<li> implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'</li>
+<li> implementation 'org.springframework.boot:spring-boot-starter-web'</li>
+<li> implementation 'org.springframework.boot:spring-boot-starter-security'</li>
+<li> implementation 'org.thymeleaf.extras:thymeleaf-extras-springsecurity5'</li>
+<li> developmentOnly 'org.springframework.boot:spring-boot-devtools'</li>
+<li> runtimeOnly 'com.mysql:mysql-connector-j'</li>
+<li> testImplementation 'org.springframework.boot:spring-boot-starter-test'</li>
+<li> testRuntimeOnly 'org.junit.platform:junit-platform-launcher'</li>
+
