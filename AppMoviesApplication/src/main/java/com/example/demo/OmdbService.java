@@ -12,8 +12,8 @@ public class OmdbService {
     @Autowired
     private RestTemplate restTemplate;
 
-    private final String apiKey = "8bd79e0a";
-    private final String urlTemplate = "https://www.omdbapi.com/?t={title}&apikey={apiKey}";
+    private final String apiKey = "";
+    private final String urlTemplate = "";
 
     public String getMovieDetails(String title) {
         return restTemplate.getForObject(urlTemplate, String.class, title, apiKey);
