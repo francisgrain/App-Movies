@@ -22,3 +22,6 @@
 <li> testRuntimeOnly 'org.junit.platform:junit-platform-launcher'</li>
 
 <h3>Repository used: Gradle</h3>
+
+<h3>Screenshots</h3>
+<img src="file:///C:/Users/Francesco/Documents/GitHub/francisgrain.github.io/assets/images/appmovies1.png">
